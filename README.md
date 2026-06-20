@@ -23,9 +23,6 @@ I build and operate production-grade infrastructure across hybrid cloud environm
 
 **Other:** ServiceNow, OpenStack (Kolla-Ansible), Ceph
 
-### Featured Repositories
-- [elk-stack-cluster-setup](https://github.com/msmuthu4/elk-stack-cluster-setup) Multi-node ELK cluster deployment with Filebeat log forwarding
-
 ### Find me elsewhere
 - [Portfolio](https://muthuselvam-portfolio.netlify.app) | [LinkedIn](https://linkedin.com/in/muthuselvam46)
 
